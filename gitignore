@@ -1,0 +1,23 @@
+# Vivado generated project/build artifacts
+*.jou
+*.log
+*.str
+*.xpr
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/*/xsim.dir/
+webtalk*
+vivado*.jou
+vivado*.log
+xelab.pb
+xsim.dir/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+*~
